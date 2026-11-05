@@ -28,7 +28,7 @@ export default function Header() {
     { name: "WIG ON SALE", href: "/collections/sale" },
     { name: "ALL WIGS", href: "/collections/all", dropdown: true },
     { name: "NAIJA ROYAL LACE", href: "/collections/naija-royal-lace" },
-    { name: "NEW ARRIVALS", href: "/collections/new-arrivals" },
+    { name: "TRACK ORDER", href: "/collections/order" },
     { name: "HAIR TOOLS", href: "/collections/hair-tools" },
   ];
 
